@@ -350,12 +350,12 @@ Write code on a whiteboard, not a computer. Test with some sample inputs. Then t
 - [x] [Asymptotics (video)](https://class.coursera.org/algorithmicthink1-004/lecture/61)
 - [x] [UC Berkeley Big O (video)](https://youtu.be/VIS4YDpuP98)
 - [x] [UC Berkeley Big Omega (video)](https://youtu.be/ca3e7UVmeUc)
-- [ ] [Amortized Analysis (video)](https://www.youtube.com/watch?v=B3SpQZaAZP4&index=10&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
-- [ ] [Illustrating "Big O" (video)](https://class.coursera.org/algorithmicthink1-004/lecture/63)
-- [ ] TopCoder (includes recurrence relations and master theorem):
+- [x] [Amortized Analysis (video)](https://www.youtube.com/watch?v=B3SpQZaAZP4&index=10&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
+- [x] [Illustrating "Big O" (video)](https://class.coursera.org/algorithmicthink1-004/lecture/63)
+- [x] TopCoder (includes recurrence relations and master theorem):
     - [Computational Complexity: Section 1](https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-1/)
     - [Computational Complexity: Section 2](https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-2/)
-- [ ] [Cheat sheet](http://bigocheatsheet.com/)
+- [x] [Cheat sheet](http://bigocheatsheet.com/)
 
 
     If some of the lectures are too mathy, you can jump down to the bottom and
